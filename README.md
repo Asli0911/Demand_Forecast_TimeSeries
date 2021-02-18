@@ -6,8 +6,6 @@ In order to achieve this goal, we will make predictions with LSTM, unlike the ma
 
 Here are the features:
 
-
-
 * timestamp - timestamp field for grouping the data
 * cnt - the count of a new bike shares
 * t1 - real temperature in C
